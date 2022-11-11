@@ -139,11 +139,15 @@ layout: quote
 
 ---
 
-# フル投資の参考事例
+# フル投資の参考事例(1)
 
-<v-click>
-<iframe style="width: 80%; height: 60%" src="https://www.youtube.com/embed/dNt-00LpCBg?clip=UgkxSlqMOTuQXOqJfWffOVu49LFdS1CRkt6u&amp;clipt=EOePAhj45AI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</v-click>
+<iframe style="width: 90%; height: 70%" src="https://www.youtube.com/embed/dNt-00LpCBg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+# フル投資の参考事例(2)
+
+<iframe style="width: 80%; height: 80%" src="https://www.youtube.com/embed/E5-2y9y9mEE?start=230" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
