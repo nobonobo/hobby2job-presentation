@@ -9,6 +9,8 @@ background: "/raindrop.png"
 
 # Now Loading...
 
+## https://nobonobo.github.io/hobby2job-presentation/
+
 ---
 layout: cover
 background: "/raindrop.png"
