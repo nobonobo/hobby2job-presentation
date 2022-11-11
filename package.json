@@ -1,8 +1,8 @@
 {
-  "name": "go2job",
+  "name": "hobby2job",
   "private": true,
   "scripts": {
-    "build": "slidev build --out docs",
+    "build": "slidev build",
     "dev": "slidev --open",
     "export": "slidev export"
   },
@@ -10,9 +10,5 @@
     "@slidev/cli": "^0.36.11",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*"
-  },
-  "devDependencies": {
-    "@iconify-json/logos": "^1.1.18",
-    "@iconify-json/twemoji": "^1.1.5"
   }
 }
