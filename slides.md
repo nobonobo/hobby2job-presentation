@@ -130,11 +130,15 @@ layout: quote
 
 <iframe style="width: 90%; height: 70%" src="https://www.youtube.com/embed/dNt-00LpCBg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<!--全画面側を操作！-->
+
 ---
 
 # フル投資の参考事例(2)
 
 <iframe style="width: 80%; height: 80%" src="https://www.youtube.com/embed/E5-2y9y9mEE?start=230" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!--全画面側を操作！-->
 
 ---
 
@@ -147,7 +151,6 @@ layout: quote
 - 2022/02 めっちゃやりこむも30fps以下が辛くなる
 - 2022/03 PS5を求めるも買えずゲーミングPC入手
 - 2022/04 WRC10 eSportsに参戦し敗退
-- 2022/04中 FFB初体験
 - 2022/05 動画用操作情報表示アプリを**GoとWails**で作る
 
 </v-clicks>
@@ -228,7 +231,9 @@ Thrustmaster-T80
 </v-click>
 
 <!--
+全画面側を操作！
 パッドプレイではハンドルの動きがぎこちないのがわかるかと。
+ここでGoが使われたのはJoystickの処理系とPythonプロセスの管理と通信ですね。
 -->
 
 ---
@@ -275,6 +280,8 @@ UDPパケット到着時にポップアップ表示、UDPパケットが来な�
 </p>
 
 </v-click>
+
+<!--全画面側を操作！-->
 
 ---
 
@@ -335,7 +342,11 @@ UDPパケット到着時にポップアップ表示、UDPパケットが来な�
 
 </div></div>
 
-<!--ジャンプもできる-->
+<!--
+全画面側を操作！
+
+ジャンプもできる
+-->
 
 ---
 
@@ -385,7 +396,11 @@ UDPパケット到着時にポップアップ表示、UDPパケットが来な�
 
 <iframe width="90%" height="400vh" src="https://www.youtube.com/embed/xQN240ESLlU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!--軽々と回してそうに見えますが実は結構重いです-->
+<!--
+全画面側を操作
+
+軽々と回してそうに見えますが実は結構重いです
+-->
 
 ---
 
@@ -457,12 +472,6 @@ layout: cover
 
 </v-click>
 
----
-layout: cover
-background: /raindrop.png
----
-
-# 質疑応答
 
 ---
 layout: cover
@@ -471,6 +480,13 @@ background: /rally-japan-2022.png
 
 # いままさにWRC最終戦ラリージャパン
 # 開催中!!!
+
+---
+layout: cover
+background: /raindrop.png
+---
+
+# 質疑応答
 
 ---
 layout: cover
